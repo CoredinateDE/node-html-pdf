@@ -23,7 +23,7 @@
     "tape": "^3.4.0"
   },
   "dependencies": {
-    "phantomjs": "git://github.com/Medium/phantomjs.git#v1.9.14"
+    "phantomjs": "git://github.com/Medium/phantomjs.git#v1.9.19"
   },
   "repository": {
     "type": "git",
